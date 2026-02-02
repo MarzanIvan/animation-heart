@@ -5,4 +5,3 @@
 <hr>
 Websites: <br/>
 - https://kliimoop.ru<br/>
-- https://olesyaa03.ru
